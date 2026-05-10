@@ -16,7 +16,9 @@ export default function Navbar({ lastUpdated }) {
   }
 
   return (
-    <nav className="sticky top-0 z-50 bg-s0/95 backdrop-blur-md border-b border-white/[0.06]">
+    <nav className="sticky top-0 z-50 bg-s0/95 backdrop-blur-md relative pb-px">
+      {/* Gradient bottom border */}
+      <div className="absolute inset-x-0 bottom-0 h-px bg-gradient-to-r from-transparent via-uni/40 to-transparent" />
       <div className="max-w-5xl mx-auto px-4 sm:px-6">
         <div className="flex items-center justify-between h-14">
 

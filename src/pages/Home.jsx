@@ -68,10 +68,10 @@ export default function Home() {
     <motion.div className="space-y-8" initial="hidden" animate="visible" variants={stagger}>
 
       {/* Hero */}
-      <motion.div variants={fadeUp} className="text-center py-10 relative">
+      <motion.div variants={fadeUp} className="text-center pt-6 pb-8 relative">
         <div className="absolute inset-0 pointer-events-none"
           style={{
-            background: 'radial-gradient(ellipse 60% 50% at 50% -10%, rgba(0,79,158,0.18) 0%, transparent 70%)',
+            background: 'radial-gradient(ellipse 70% 80% at 50% 30%, rgba(0,79,158,0.12) 0%, transparent 70%)',
           }}
         />
         <h1 className="font-display font-black text-5xl sm:text-6xl tracking-tight mb-2 relative">

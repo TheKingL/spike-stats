@@ -6,9 +6,18 @@ export default function Layout() {
   const { lastUpdated } = useStats()
 
   return (
-    <div className="min-h-screen flex flex-col bg-s1">
+    <div className="min-h-screen flex flex-col bg-s1 relative overflow-hidden">
+      {/* Ambient background glows */}
+      <div className="pointer-events-none fixed inset-0 z-0"
+        style={{
+          background: `
+            radial-gradient(ellipse 50% 40% at 15% 10%, rgba(0,79,158,0.08) 0%, transparent 70%),
+            radial-gradient(ellipse 40% 50% at 85% 80%, rgba(0,79,158,0.05) 0%, transparent 70%)
+          `,
+        }}
+      />
       <Navbar lastUpdated={lastUpdated} />
-      <main className="flex-1 max-w-5xl w-full mx-auto px-4 sm:px-6 py-8">
+      <main className="flex-1 max-w-5xl w-full mx-auto px-4 sm:px-6 py-8 relative z-10">
         <Outlet />
       </main>
       <footer className="relative pt-px mt-auto">
