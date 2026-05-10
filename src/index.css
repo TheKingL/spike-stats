@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-s1 text-gray-100 antialiased;
+    font-family: 'Barlow', system-ui, sans-serif;
+  }
+
+  h1, h2, h3, .font-display {
+    font-family: 'Barlow Condensed', sans-serif;
+  }
+
+  ::-webkit-scrollbar {
+    @apply w-1 h-1;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-s1;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-s4 rounded-full;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-gray-500;
+  }
+}
+
+@layer components {
+  .uni-highlight {
+    @apply bg-uni/10 border-l-[3px] border-uni;
+  }
+
+  .tab-active {
+    @apply bg-uni text-white font-semibold shadow-glow;
+  }
+
+  .tab-inactive {
+    @apply text-gray-400 hover:text-white hover:bg-white/5 cursor-pointer;
+  }
+
+  /* Card with hover lift */
+  .card {
+    @apply bg-s2 border border-white/[0.07] rounded-2xl shadow-card transition-all duration-200;
+  }
+  .card-hover {
+    @apply hover:border-white/[0.12] hover:shadow-card-hover hover:-translate-y-0.5;
+  }
+
+  /* Stat badge */
+  .stat-label {
+    @apply text-xs font-semibold uppercase tracking-widest text-gray-500;
+  }
+  .stat-value {
+    @apply text-2xl font-display font-bold text-white;
+  }
+
+  /* Win/Loss badges */
+  .badge-win {
+    @apply text-xs font-bold px-2 py-0.5 rounded-md bg-surf/20 text-surf border border-surf/30;
+  }
+  .badge-loss {
+    @apply text-xs font-bold px-2 py-0.5 rounded-md bg-red-500/20 text-red-400 border border-red-500/30;
+  }
+  .badge-home {
+    @apply text-xs font-bold px-2 py-0.5 rounded-md bg-uni/20 text-uniLight border border-uni/30;
+  }
+  .badge-away {
+    @apply text-xs font-bold px-2 py-0.5 rounded-md bg-ember/15 text-ember border border-ember/30;
+  }
+
+  /* Table row clickable cue */
+  .row-clickable {
+    @apply cursor-pointer transition-colors duration-150;
+  }
+
+  /* Gradient text */
+  .text-gradient-uni {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(135deg, #1a6fce 0%, #004F9E 100%);
+  }
+  .text-gradient-gold {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(135deg, #FFB81C 0%, #f59e0b 100%);
+  }
+
+  /* Sticky table column backgrounds */
+  .sticky-dark { background-color: #0d1117; }
+  .sticky-alt  { background-color: #121820; }
+  .sticky-uni  { background-color: #0c1929; }
+}
+
+/* Page transition */
+.page-enter {
+  animation: pageIn 0.25s ease-out;
+}
+@keyframes pageIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* Shimmer loading effect */
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+.shimmer {
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.04), transparent);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+/* Rank badge gradient for #1 */
+.rank-1 { @apply text-uniGold font-display font-bold; }
+.rank-2 { @apply text-gray-300 font-display font-bold; }
+.rank-3 { @apply text-amber-600 font-display font-bold; }
