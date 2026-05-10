@@ -1,0 +1,28 @@
+{
+  "id": 82028,
+  "round": 5,
+  "date": "2026-05-09",
+  "home": "Playford D5M",
+  "away": "Adelaide Uni B",
+  "homeSets": 0,
+  "awaySets": 3,
+  "homePoints": 29,
+  "awayPoints": 75,
+  "sets": [
+    {
+      "set": 1,
+      "home": 5,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 10,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 14,
+      "away": 25
+    }
+  ]
+}
