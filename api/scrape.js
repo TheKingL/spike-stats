@@ -64,17 +64,16 @@ export default async function handler(req, res) {
     }
   }
 
+  // Fetch SHAs after scorecard writes so they reflect the latest commit
   const [standingsFile, fixturesFile, resultsFile] = await Promise.all([
     getFile(token, owner, repo, 'data/standings.json', branch),
     getFile(token, owner, repo, 'data/fixtures.json', branch),
     getFile(token, owner, repo, 'data/results.json', branch),
   ])
 
-  await Promise.all([
-    putFile(token, owner, repo, 'data/standings.json', branch, standingsOut, standingsFile?.sha),
-    putFile(token, owner, repo, 'data/fixtures.json', branch, fixturesOut, fixturesFile?.sha),
-    putFile(token, owner, repo, 'data/results.json', branch, resultsOut, resultsFile?.sha),
-  ])
+  await putFile(token, owner, repo, 'data/standings.json', branch, standingsOut, standingsFile?.sha)
+  await putFile(token, owner, repo, 'data/fixtures.json', branch, fixturesOut, fixturesFile?.sha)
+  await putFile(token, owner, repo, 'data/results.json', branch, resultsOut, resultsFile?.sha)
 
   return res.status(200).json({ success: true, updated: now, summary })
 }
