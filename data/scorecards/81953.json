@@ -1,0 +1,28 @@
+{
+  "id": 81953,
+  "round": 3,
+  "date": "2026-04-25",
+  "home": "Norwood D4M",
+  "away": "Flinders Uni D4M",
+  "homeSets": 3,
+  "awaySets": 0,
+  "homePoints": 75,
+  "awayPoints": 43,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 17
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 15
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 11
+    }
+  ]
+}
