@@ -1,0 +1,28 @@
+{
+  "id": 81828,
+  "round": 1,
+  "date": "2026-04-11",
+  "home": "Austral D2M",
+  "away": "Norwood D2M",
+  "homeSets": 0,
+  "awaySets": 3,
+  "homePoints": 65,
+  "awayPoints": 75,
+  "sets": [
+    {
+      "set": 1,
+      "home": 20,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 22,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 23,
+      "away": 25
+    }
+  ]
+}
