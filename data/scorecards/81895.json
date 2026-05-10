@@ -1,0 +1,28 @@
+{
+  "id": 81895,
+  "round": 3,
+  "date": "2026-04-25",
+  "home": "Mt Lofty D3M",
+  "away": "Central D3M",
+  "homeSets": 0,
+  "awaySets": 3,
+  "homePoints": 62,
+  "awayPoints": 77,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 27
+    },
+    {
+      "set": 2,
+      "home": 14,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 23,
+      "away": 25
+    }
+  ]
+}
