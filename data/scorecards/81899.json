@@ -1,0 +1,28 @@
+{
+  "id": 81899,
+  "round": 4,
+  "date": "2026-05-02",
+  "home": "Henley D4M",
+  "away": "Adelaide Uni D4M",
+  "homeSets": 0,
+  "awaySets": 3,
+  "homePoints": 58,
+  "awayPoints": 75,
+  "sets": [
+    {
+      "set": 1,
+      "home": 19,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 19,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 20,
+      "away": 25
+    }
+  ]
+}
