@@ -1,0 +1,28 @@
+{
+  "id": 81946,
+  "round": 2,
+  "date": "2026-04-18",
+  "home": "Henley D4M",
+  "away": "Central D4M",
+  "homeSets": 0,
+  "awaySets": 3,
+  "homePoints": 56,
+  "awayPoints": 75,
+  "sets": [
+    {
+      "set": 1,
+      "home": 23,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 18,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 15,
+      "away": 25
+    }
+  ]
+}
