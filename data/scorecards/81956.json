@@ -1,0 +1,33 @@
+{
+  "id": 81956,
+  "round": 3,
+  "date": "2026-04-25",
+  "home": "Adelaide Uni A",
+  "away": "Adelaide Uni B",
+  "homeSets": 3,
+  "awaySets": 1,
+  "homePoints": 97,
+  "awayPoints": 76,
+  "sets": [
+    {
+      "set": 1,
+      "home": 22,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 17
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 14
+    },
+    {
+      "set": 4,
+      "home": 25,
+      "away": 20
+    }
+  ]
+}

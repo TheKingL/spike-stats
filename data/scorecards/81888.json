@@ -1,0 +1,28 @@
+{
+  "id": 81888,
+  "round": 2,
+  "date": "2026-04-18",
+  "home": "South D3M",
+  "away": "Henley D3M",
+  "homeSets": 3,
+  "awaySets": 0,
+  "homePoints": 77,
+  "awayPoints": 65,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 23
+    },
+    {
+      "set": 2,
+      "home": 27,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 17
+    }
+  ]
+}

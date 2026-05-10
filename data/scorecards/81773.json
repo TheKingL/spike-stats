@@ -1,0 +1,28 @@
+{
+  "id": 81773,
+  "round": 1,
+  "date": "2026-04-11",
+  "home": "USC D1M",
+  "away": "Mt Lofty D1M",
+  "homeSets": 0,
+  "awaySets": 3,
+  "homePoints": 0,
+  "awayPoints": 75,
+  "sets": [
+    {
+      "set": 1,
+      "home": 0,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 0,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 0,
+      "away": 25
+    }
+  ]
+}

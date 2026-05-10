@@ -1,0 +1,28 @@
+{
+  "id": 81780,
+  "round": 3,
+  "date": "2026-04-25",
+  "home": "USC D1M",
+  "away": "Norwood D1M",
+  "homeSets": 0,
+  "awaySets": 3,
+  "homePoints": 52,
+  "awayPoints": 75,
+  "sets": [
+    {
+      "set": 1,
+      "home": 18,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 13,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 21,
+      "away": 25
+    }
+  ]
+}

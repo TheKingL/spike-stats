@@ -1,0 +1,38 @@
+{
+  "id": 81964,
+  "round": 5,
+  "date": "2026-05-09",
+  "home": "Henley D4M",
+  "away": "Playford D4M",
+  "homeSets": 2,
+  "awaySets": 3,
+  "homePoints": 105,
+  "awayPoints": 108,
+  "sets": [
+    {
+      "set": 1,
+      "home": 18,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 19
+    },
+    {
+      "set": 3,
+      "home": 20,
+      "away": 25
+    },
+    {
+      "set": 4,
+      "home": 25,
+      "away": 20
+    },
+    {
+      "set": 5,
+      "home": 17,
+      "away": 19
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 81960,
+  "round": 4,
+  "date": "2026-05-02",
+  "home": "Norwood D4M",
+  "away": "Playford D4M",
+  "homeSets": 3,
+  "awaySets": 1,
+  "homePoints": 105,
+  "awayPoints": 87,
+  "sets": [
+    {
+      "set": 1,
+      "home": 29,
+      "away": 27
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 20
+    },
+    {
+      "set": 3,
+      "home": 26,
+      "away": 28
+    },
+    {
+      "set": 4,
+      "home": 25,
+      "away": 12
+    }
+  ]
+}

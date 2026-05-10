@@ -1,0 +1,28 @@
+{
+  "id": 81846,
+  "round": 5,
+  "date": "2026-05-09",
+  "home": "Austral D2M",
+  "away": "Adelaide Uni D2M",
+  "homeSets": 0,
+  "awaySets": 3,
+  "homePoints": 69,
+  "awayPoints": 76,
+  "sets": [
+    {
+      "set": 1,
+      "home": 23,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 24,
+      "away": 26
+    },
+    {
+      "set": 3,
+      "home": 22,
+      "away": 25
+    }
+  ]
+}
