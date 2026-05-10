@@ -1,0 +1,33 @@
+{
+  "id": 82024,
+  "round": 4,
+  "date": "2026-05-02",
+  "home": "Adelaide Uni B",
+  "away": "Mid Coast D5M",
+  "homeSets": 1,
+  "awaySets": 3,
+  "homePoints": 85,
+  "awayPoints": 98,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 21
+    },
+    {
+      "set": 2,
+      "home": 15,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 27
+    },
+    {
+      "set": 4,
+      "home": 20,
+      "away": 25
+    }
+  ]
+}
