@@ -1,0 +1,28 @@
+{
+  "id": 81949,
+  "round": 2,
+  "date": "2026-04-18",
+  "home": "South D4M",
+  "away": "Norwood D4M",
+  "homeSets": 0,
+  "awaySets": 3,
+  "homePoints": 51,
+  "awayPoints": 75,
+  "sets": [
+    {
+      "set": 1,
+      "home": 17,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 17,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 17,
+      "away": 25
+    }
+  ]
+}
