@@ -1,0 +1,28 @@
+{
+  "id": 81958,
+  "round": 4,
+  "date": "2026-05-02",
+  "home": "Austral D4M",
+  "away": "Central D4M",
+  "homeSets": 3,
+  "awaySets": 0,
+  "homePoints": 76,
+  "awayPoints": 66,
+  "sets": [
+    {
+      "set": 1,
+      "home": 26,
+      "away": 24
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 19
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 23
+    }
+  ]
+}
