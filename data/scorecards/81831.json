@@ -1,0 +1,33 @@
+{
+  "id": 81831,
+  "round": 2,
+  "date": "2026-04-18",
+  "home": "Central D2M",
+  "away": "USC D2M",
+  "homeSets": 3,
+  "awaySets": 1,
+  "homePoints": 94,
+  "awayPoints": 83,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 20
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 17
+    },
+    {
+      "set": 3,
+      "home": 19,
+      "away": 25
+    },
+    {
+      "set": 4,
+      "home": 25,
+      "away": 21
+    }
+  ]
+}
