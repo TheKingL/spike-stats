@@ -2,7 +2,7 @@ import { scrapeStandings } from './_lib/scrapeStandings.js'
 import { scrapeFixtures } from './_lib/scrapeFixtures.js'
 import { scrapeResults } from './_lib/scrapeResults.js'
 import { scrapeScorecard } from './_lib/scrapeScorecard.js'
-import { getFile, putFile } from './_lib/githubApi.js'
+import { getFile, putFile, listDir } from './_lib/githubApi.js'
 import { DIVISIONS } from '../src/constants.js'
 
 export default async function handler(req, res) {
@@ -47,17 +47,16 @@ export default async function handler(req, res) {
   const allResults = Object.values(resultsOut.divisions).flat()
   const scorecardIds = [...new Set(allResults.map(r => r.scorecardId).filter(Boolean))]
 
-  for (const id of scorecardIds) {
-    const path = `data/scorecards/${id}.json`
-    try {
-      const existing = await getFile(token, owner, repo, path, branch)
-      if (existing) {
-        summary.scorecards.skipped++
-        continue
-      }
+  const existingFiles = new Set(await listDir(token, owner, repo, 'data/scorecards', branch))
 
+  for (const id of scorecardIds) {
+    if (existingFiles.has(`${id}.json`)) {
+      summary.scorecards.skipped++
+      continue
+    }
+    try {
       const scorecard = await scrapeScorecard(id)
-      await putFile(token, owner, repo, path, branch, scorecard, null)
+      await putFile(token, owner, repo, `data/scorecards/${id}.json`, branch, scorecard, null)
       summary.scorecards.fetched++
     } catch (err) {
       summary.scorecards.errors++

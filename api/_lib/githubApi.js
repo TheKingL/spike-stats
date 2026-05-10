@@ -9,6 +9,15 @@ function headers(token) {
   }
 }
 
+export async function listDir(token, owner, repo, path, branch) {
+  const url = `${BASE}/repos/${owner}/${repo}/contents/${path}?ref=${branch}`
+  const res = await fetch(url, { headers: headers(token) })
+  if (res.status === 404) return []
+  if (!res.ok) throw new Error(`GitHub LIST ${path} failed: ${res.status}`)
+  const items = await res.json()
+  return Array.isArray(items) ? items.map(i => i.name) : []
+}
+
 export async function getFile(token, owner, repo, path, branch) {
   const url = `${BASE}/repos/${owner}/${repo}/contents/${path}?ref=${branch}`
   const res = await fetch(url, { headers: headers(token) })
