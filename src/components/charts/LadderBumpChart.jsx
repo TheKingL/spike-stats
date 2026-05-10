@@ -68,7 +68,7 @@ export default function LadderBumpChart({ data }) {
         axisLeft={{
           tickSize: 0,
           tickPadding: 10,
-          legend: '← Better',
+          legend: 'Rank',
           legendPosition: 'middle',
           legendOffset: -50,
           tickValues: Array.from({ length: maxY }, (_, i) => i + 1),
