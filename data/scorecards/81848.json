@@ -1,0 +1,33 @@
+{
+  "id": 81848,
+  "round": 6,
+  "date": "2026-05-16",
+  "home": "USC D2M",
+  "away": "Austral D2M",
+  "homeSets": 3,
+  "awaySets": 1,
+  "homePoints": 106,
+  "awayPoints": 96,
+  "sets": [
+    {
+      "set": 1,
+      "home": 24,
+      "away": 26
+    },
+    {
+      "set": 2,
+      "home": 31,
+      "away": 29
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 17
+    },
+    {
+      "set": 4,
+      "home": 26,
+      "away": 24
+    }
+  ]
+}
