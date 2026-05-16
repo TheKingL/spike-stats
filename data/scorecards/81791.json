@@ -1,0 +1,33 @@
+{
+  "id": 81791,
+  "round": 6,
+  "date": "2026-05-16",
+  "home": "Mt Lofty D1M",
+  "away": "Adelaide Uni D1M",
+  "homeSets": 1,
+  "awaySets": 3,
+  "homePoints": 65,
+  "awayPoints": 94,
+  "sets": [
+    {
+      "set": 1,
+      "home": 18,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 19
+    },
+    {
+      "set": 3,
+      "home": 10,
+      "away": 25
+    },
+    {
+      "set": 4,
+      "home": 12,
+      "away": 25
+    }
+  ]
+}
