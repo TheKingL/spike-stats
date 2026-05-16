@@ -1,0 +1,38 @@
+{
+  "id": 81967,
+  "round": 6,
+  "date": "2026-05-16",
+  "home": "Henley D4M",
+  "away": "USC D4M",
+  "homeSets": 2,
+  "awaySets": 3,
+  "homePoints": 102,
+  "awayPoints": 107,
+  "sets": [
+    {
+      "set": 1,
+      "home": 26,
+      "away": 24
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 17
+    },
+    {
+      "set": 3,
+      "home": 14,
+      "away": 25
+    },
+    {
+      "set": 4,
+      "home": 23,
+      "away": 25
+    },
+    {
+      "set": 5,
+      "home": 14,
+      "away": 16
+    }
+  ]
+}
