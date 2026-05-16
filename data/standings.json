@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T13:08:21.207Z",
+  "updated": "2026-05-16T15:01:56.666Z",
   "divisions": {
     "D1M": [
       {
@@ -557,18 +557,18 @@
       {
         "rank": 1,
         "team": "Adelaide Uni A",
-        "played": 5,
-        "won": 5,
+        "played": 6,
+        "won": 6,
         "lost": 0,
         "drawn": 0,
         "other": 0,
-        "setsFor": 15,
-        "setsAgainst": 2,
-        "setPercent": 0.8824,
-        "pointsFor": 413,
-        "pointsAgainst": 331,
-        "pointPercent": 0.5551,
-        "leaguePoints": 15
+        "setsFor": 18,
+        "setsAgainst": 3,
+        "setPercent": 0.8571,
+        "pointsFor": 511,
+        "pointsAgainst": 402,
+        "pointPercent": 0.5597,
+        "leaguePoints": 18
       },
       {
         "rank": 2,
@@ -605,18 +605,18 @@
       {
         "rank": 4,
         "team": "Austral D5M",
-        "played": 5,
+        "played": 6,
         "won": 3,
-        "lost": 2,
+        "lost": 3,
         "drawn": 0,
         "other": 0,
-        "setsFor": 11,
-        "setsAgainst": 6,
-        "setPercent": 0.6471,
-        "pointsFor": 373,
-        "pointsAgainst": 371,
-        "pointPercent": 0.5013,
-        "leaguePoints": 11
+        "setsFor": 12,
+        "setsAgainst": 9,
+        "setPercent": 0.5714,
+        "pointsFor": 444,
+        "pointsAgainst": 469,
+        "pointPercent": 0.4863,
+        "leaguePoints": 12
       },
       {
         "rank": 5,
