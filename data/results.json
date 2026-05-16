@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T13:08:21.207Z",
+  "updated": "2026-05-16T15:01:56.666Z",
   "divisions": {
     "D1M": [
       {
@@ -1373,6 +1373,17 @@
         "awaySets": 0,
         "homePoints": 75,
         "awayPoints": 55
+      },
+      {
+        "scorecardId": 82034,
+        "round": 6,
+        "date": "2026-05-16",
+        "home": "Adelaide Uni A",
+        "away": "Austral D5M",
+        "homeSets": 3,
+        "awaySets": 1,
+        "homePoints": 98,
+        "awayPoints": 71
       }
     ]
   }
