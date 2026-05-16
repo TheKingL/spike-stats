@@ -1,0 +1,33 @@
+{
+  "id": 81968,
+  "round": 6,
+  "date": "2026-05-16",
+  "home": "Norwood D4M",
+  "away": "Mid Coast D4M",
+  "homeSets": 3,
+  "awaySets": 1,
+  "homePoints": 97,
+  "awayPoints": 81,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 23
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 15
+    },
+    {
+      "set": 3,
+      "home": 22,
+      "away": 25
+    },
+    {
+      "set": 4,
+      "home": 25,
+      "away": 18
+    }
+  ]
+}
