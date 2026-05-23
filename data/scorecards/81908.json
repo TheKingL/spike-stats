@@ -1,0 +1,28 @@
+{
+  "id": 81908,
+  "round": 7,
+  "date": "2026-05-23",
+  "home": "Henley D3M",
+  "away": "Mt Lofty D3M",
+  "homeSets": 3,
+  "awaySets": 0,
+  "homePoints": 75,
+  "awayPoints": 56,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 16
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 22
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 18
+    }
+  ]
+}
