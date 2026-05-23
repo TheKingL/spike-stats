@@ -1,0 +1,38 @@
+{
+  "id": 81910,
+  "round": 7,
+  "date": "2026-05-23",
+  "home": "South D3M",
+  "away": "Norwood D3M",
+  "homeSets": 2,
+  "awaySets": 3,
+  "homePoints": 113,
+  "awayPoints": 117,
+  "sets": [
+    {
+      "set": 1,
+      "home": 24,
+      "away": 26
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 23
+    },
+    {
+      "set": 3,
+      "home": 24,
+      "away": 26
+    },
+    {
+      "set": 4,
+      "home": 29,
+      "away": 27
+    },
+    {
+      "set": 5,
+      "home": 11,
+      "away": 15
+    }
+  ]
+}
