@@ -1,0 +1,28 @@
+{
+  "id": 81893,
+  "round": 3,
+  "date": "2026-04-25",
+  "home": "Austral D3M",
+  "away": "South D3M",
+  "homeSets": 0,
+  "awaySets": 3,
+  "homePoints": 48,
+  "awayPoints": 75,
+  "sets": [
+    {
+      "set": 1,
+      "home": 16,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 15,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 17,
+      "away": 25
+    }
+  ]
+}
