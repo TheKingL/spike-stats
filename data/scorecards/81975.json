@@ -1,0 +1,28 @@
+{
+  "id": 81975,
+  "round": 7,
+  "date": "2026-05-23",
+  "home": "Playford D4M",
+  "away": "Mid Coast D4M",
+  "homeSets": 0,
+  "awaySets": 3,
+  "homePoints": 67,
+  "awayPoints": 83,
+  "sets": [
+    {
+      "set": 1,
+      "home": 15,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 21,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 31,
+      "away": 33
+    }
+  ]
+}
