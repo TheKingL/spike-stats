@@ -1,0 +1,28 @@
+{
+  "id": 81909,
+  "round": 7,
+  "date": "2026-05-23",
+  "home": "Adelaide Uni D3M",
+  "away": "USC D3M",
+  "homeSets": 3,
+  "awaySets": 0,
+  "homePoints": 75,
+  "awayPoints": 53,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 16
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 16
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 21
+    }
+  ]
+}
