@@ -1,0 +1,38 @@
+{
+  "id": 81974,
+  "round": 7,
+  "date": "2026-05-23",
+  "home": "South D4M",
+  "away": "Flinders Uni D4M",
+  "homeSets": 2,
+  "awaySets": 3,
+  "homePoints": 107,
+  "awayPoints": 118,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 23
+    },
+    {
+      "set": 2,
+      "home": 24,
+      "away": 26
+    },
+    {
+      "set": 3,
+      "home": 14,
+      "away": 25
+    },
+    {
+      "set": 4,
+      "home": 28,
+      "away": 26
+    },
+    {
+      "set": 5,
+      "home": 16,
+      "away": 18
+    }
+  ]
+}
