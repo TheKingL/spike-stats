@@ -1,0 +1,28 @@
+{
+  "id": 82037,
+  "round": 7,
+  "date": "2026-05-23",
+  "home": "Flinders Uni D5M",
+  "away": "Adelaide Uni A",
+  "homeSets": 0,
+  "awaySets": 3,
+  "homePoints": 34,
+  "awayPoints": 75,
+  "sets": [
+    {
+      "set": 1,
+      "home": 11,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 9,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 14,
+      "away": 25
+    }
+  ]
+}
