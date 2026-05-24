@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T12:43:04.123Z",
+  "updated": "2026-05-24T04:11:20.698Z",
   "divisions": {
     "D1M": [
       {
@@ -1305,6 +1305,17 @@
         "awaySets": 3,
         "homePoints": 59,
         "awayPoints": 75
+      },
+      {
+        "scorecardId": 81974,
+        "round": 7,
+        "date": "2026-05-23",
+        "home": "South D4M",
+        "away": "Flinders Uni D4M",
+        "homeSets": 2,
+        "awaySets": 3,
+        "homePoints": 107,
+        "awayPoints": 118
       }
     ],
     "D5M": [
@@ -1592,6 +1603,28 @@
         "homeSets": 0,
         "awaySets": 3,
         "homePoints": 55,
+        "awayPoints": 75
+      },
+      {
+        "scorecardId": 81977,
+        "round": 7,
+        "date": "2026-05-23",
+        "home": "Henley D5M",
+        "away": "Mid Coast D5M",
+        "homeSets": 0,
+        "awaySets": 3,
+        "homePoints": 45,
+        "awayPoints": 75
+      },
+      {
+        "scorecardId": 82037,
+        "round": 7,
+        "date": "2026-05-23",
+        "home": "Flinders Uni D5M",
+        "away": "Adelaide Uni A",
+        "homeSets": 0,
+        "awaySets": 3,
+        "homePoints": 34,
         "awayPoints": 75
       }
     ]
