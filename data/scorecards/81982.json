@@ -1,0 +1,38 @@
+{
+  "id": 81982,
+  "round": 8,
+  "date": "2026-05-30",
+  "home": "Henley D4M",
+  "away": "Flinders Uni D4M",
+  "homeSets": 2,
+  "awaySets": 3,
+  "homePoints": 92,
+  "awayPoints": 105,
+  "sets": [
+    {
+      "set": 1,
+      "home": 17,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 17,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 22
+    },
+    {
+      "set": 4,
+      "home": 25,
+      "away": 18
+    },
+    {
+      "set": 5,
+      "home": 8,
+      "away": 15
+    }
+  ]
+}
