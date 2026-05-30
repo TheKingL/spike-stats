@@ -1,0 +1,33 @@
+{
+  "id": 81913,
+  "round": 8,
+  "date": "2026-05-30",
+  "home": "Central D3M",
+  "away": "Henley D3M",
+  "homeSets": 3,
+  "awaySets": 1,
+  "homePoints": 99,
+  "awayPoints": 74,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 15
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 16
+    },
+    {
+      "set": 3,
+      "home": 24,
+      "away": 26
+    },
+    {
+      "set": 4,
+      "home": 25,
+      "away": 17
+    }
+  ]
+}
