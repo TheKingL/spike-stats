@@ -1,0 +1,33 @@
+{
+  "id": 81798,
+  "round": 8,
+  "date": "2026-05-30",
+  "home": "Central D1M",
+  "away": "Henley D1M",
+  "homeSets": 3,
+  "awaySets": 1,
+  "homePoints": 95,
+  "awayPoints": 67,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 14
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 14
+    },
+    {
+      "set": 3,
+      "home": 20,
+      "away": 25
+    },
+    {
+      "set": 4,
+      "home": 25,
+      "away": 14
+    }
+  ]
+}
