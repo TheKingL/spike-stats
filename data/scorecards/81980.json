@@ -1,0 +1,38 @@
+{
+  "id": 81980,
+  "round": 8,
+  "date": "2026-05-30",
+  "home": "Norwood D4M",
+  "away": "Central D4M",
+  "homeSets": 2,
+  "awaySets": 3,
+  "homePoints": 95,
+  "awayPoints": 97,
+  "sets": [
+    {
+      "set": 1,
+      "home": 17,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 17,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 14
+    },
+    {
+      "set": 4,
+      "home": 25,
+      "away": 18
+    },
+    {
+      "set": 5,
+      "home": 11,
+      "away": 15
+    }
+  ]
+}
