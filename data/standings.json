@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T12:59:21.177Z",
+  "updated": "2026-06-06T13:01:04.461Z",
   "divisions": {
     "D1M": [
       {
@@ -499,9 +499,9 @@
         "setsFor": 10,
         "setsAgainst": 21,
         "setPercent": 0.3226,
-        "pointsFor": 619,
-        "pointsAgainst": 706,
-        "pointPercent": 0.4672,
+        "pointsFor": 628,
+        "pointsAgainst": 697,
+        "pointPercent": 0.474,
         "leaguePoints": 12
       },
       {
@@ -515,9 +515,9 @@
         "setsFor": 9,
         "setsAgainst": 20,
         "setPercent": 0.3103,
-        "pointsFor": 595,
-        "pointsAgainst": 682,
-        "pointPercent": 0.4659,
+        "pointsFor": 586,
+        "pointsAgainst": 691,
+        "pointPercent": 0.4589,
         "leaguePoints": 12
       },
       {
