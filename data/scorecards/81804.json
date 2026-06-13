@@ -1,0 +1,33 @@
+{
+  "id": 81804,
+  "round": 9,
+  "date": "2026-06-13",
+  "home": "South D1M",
+  "away": "Henley D1M",
+  "homeSets": 3,
+  "awaySets": 1,
+  "homePoints": 86,
+  "awayPoints": 88,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 20
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 22
+    },
+    {
+      "set": 3,
+      "home": 11,
+      "away": 25
+    },
+    {
+      "set": 4,
+      "home": 25,
+      "away": 21
+    }
+  ]
+}
