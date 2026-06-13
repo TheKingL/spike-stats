@@ -1,0 +1,38 @@
+{
+  "id": 81987,
+  "round": 9,
+  "date": "2026-06-13",
+  "home": "South D4M",
+  "away": "USC D4M",
+  "homeSets": 3,
+  "awaySets": 2,
+  "homePoints": 112,
+  "awayPoints": 105,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 21
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 21
+    },
+    {
+      "set": 3,
+      "home": 23,
+      "away": 25
+    },
+    {
+      "set": 4,
+      "home": 24,
+      "away": 26
+    },
+    {
+      "set": 5,
+      "home": 15,
+      "away": 12
+    }
+  ]
+}
