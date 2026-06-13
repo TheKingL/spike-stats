@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T13:01:04.461Z",
+  "updated": "2026-06-13T12:48:37.259Z",
   "divisions": {
     "D1M": [
       {
@@ -353,6 +353,39 @@
         "awaySets": 2,
         "homePoints": 107,
         "awayPoints": 96
+      },
+      {
+        "scorecardId": 81804,
+        "round": 9,
+        "date": "2026-06-13",
+        "home": "South D1M",
+        "away": "Henley D1M",
+        "homeSets": 3,
+        "awaySets": 1,
+        "homePoints": 86,
+        "awayPoints": 88
+      },
+      {
+        "scorecardId": 81803,
+        "round": 9,
+        "date": "2026-06-13",
+        "home": "Mt Lofty D1M",
+        "away": "Austral D1M",
+        "homeSets": 3,
+        "awaySets": 2,
+        "homePoints": 105,
+        "awayPoints": 99
+      },
+      {
+        "scorecardId": 81802,
+        "round": 9,
+        "date": "2026-06-13",
+        "home": "Norwood D1M",
+        "away": "Adelaide Uni D1M",
+        "homeSets": 3,
+        "awaySets": 0,
+        "homePoints": 75,
+        "awayPoints": 59
       }
     ],
     "D2M": [
@@ -707,6 +740,50 @@
         "awaySets": 0,
         "homePoints": 83,
         "awayPoints": 76
+      },
+      {
+        "scorecardId": 81859,
+        "round": 9,
+        "date": "2026-06-13",
+        "home": "Mt Lofty D2M",
+        "away": "Austral D2M",
+        "homeSets": 3,
+        "awaySets": 2,
+        "homePoints": 104,
+        "awayPoints": 97
+      },
+      {
+        "scorecardId": 81861,
+        "round": 9,
+        "date": "2026-06-13",
+        "home": "Norwood D2M",
+        "away": "Adelaide Uni D2M",
+        "homeSets": 3,
+        "awaySets": 2,
+        "homePoints": 107,
+        "awayPoints": 94
+      },
+      {
+        "scorecardId": 81863,
+        "round": 9,
+        "date": "2026-06-13",
+        "home": "South D2M",
+        "away": "Henley D2M",
+        "homeSets": 3,
+        "awaySets": 1,
+        "homePoints": 98,
+        "awayPoints": 82
+      },
+      {
+        "scorecardId": 81860,
+        "round": 9,
+        "date": "2026-06-13",
+        "home": "Central D2M",
+        "away": "USC D2M",
+        "homeSets": 3,
+        "awaySets": 0,
+        "homePoints": 75,
+        "awayPoints": 54
       }
     ],
     "D3M": [
@@ -1061,6 +1138,39 @@
         "awaySets": 1,
         "homePoints": 98,
         "awayPoints": 84
+      },
+      {
+        "scorecardId": 81862,
+        "round": 9,
+        "date": "2026-06-13",
+        "home": "Norwood D3M",
+        "away": "Adelaide Uni D3M",
+        "homeSets": 2,
+        "awaySets": 3,
+        "homePoints": 100,
+        "awayPoints": 112
+      },
+      {
+        "scorecardId": 81918,
+        "round": 9,
+        "date": "2026-06-13",
+        "home": "Mt Lofty D3M",
+        "away": "Austral D3M",
+        "homeSets": 0,
+        "awaySets": 3,
+        "homePoints": 64,
+        "awayPoints": 76
+      },
+      {
+        "scorecardId": 81919,
+        "round": 9,
+        "date": "2026-06-13",
+        "home": "Central D3M",
+        "away": "USC D3M",
+        "homeSets": 3,
+        "awaySets": 1,
+        "homePoints": 105,
+        "awayPoints": 98
       }
     ],
     "D4M": [
@@ -1503,6 +1613,50 @@
         "awaySets": 3,
         "homePoints": 92,
         "awayPoints": 105
+      },
+      {
+        "scorecardId": 81984,
+        "round": 9,
+        "date": "2026-06-13",
+        "home": "Adelaide Uni D4M",
+        "away": "Central D4M",
+        "homeSets": 3,
+        "awaySets": 1,
+        "homePoints": 100,
+        "awayPoints": 91
+      },
+      {
+        "scorecardId": 81986,
+        "round": 9,
+        "date": "2026-06-13",
+        "home": "Flinders Uni D4M",
+        "away": "Mid Coast D4M",
+        "homeSets": 0,
+        "awaySets": 3,
+        "homePoints": 67,
+        "awayPoints": 75
+      },
+      {
+        "scorecardId": 81985,
+        "round": 9,
+        "date": "2026-06-13",
+        "home": "Austral D4M",
+        "away": "Playford D4M",
+        "homeSets": 0,
+        "awaySets": 3,
+        "homePoints": 63,
+        "awayPoints": 75
+      },
+      {
+        "scorecardId": 81987,
+        "round": 9,
+        "date": "2026-06-13",
+        "home": "South D4M",
+        "away": "USC D4M",
+        "homeSets": 3,
+        "awaySets": 2,
+        "homePoints": 112,
+        "awayPoints": 105
       }
     ],
     "D5M": [
@@ -1857,6 +2011,28 @@
         "awaySets": 3,
         "homePoints": 65,
         "awayPoints": 77
+      },
+      {
+        "scorecardId": 82041,
+        "round": 9,
+        "date": "2026-06-13",
+        "home": "Playford D5M",
+        "away": "Adelaide Uni A",
+        "homeSets": 0,
+        "awaySets": 3,
+        "homePoints": 41,
+        "awayPoints": 75
+      },
+      {
+        "scorecardId": 82043,
+        "round": 9,
+        "date": "2026-06-13",
+        "home": "Mid Coast D5M",
+        "away": "Austral D5M",
+        "homeSets": 3,
+        "awaySets": 0,
+        "homePoints": 75,
+        "awayPoints": 66
       }
     ]
   }
