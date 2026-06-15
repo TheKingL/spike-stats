@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T12:48:37.259Z",
+  "updated": "2026-06-15T08:26:30.337Z",
   "divisions": {
     "D1M": [
       {
@@ -1716,200 +1716,200 @@
         "round": 10,
         "date": "2026-06-20",
         "time": "13:00pm",
-        "home": "1st",
-        "away": "6th",
+        "home": "Adelaide Uni D4M",
+        "away": "Playford D4M",
         "venue": "Mt Lofty Community Centre / Show Court 1"
       },
       {
         "round": 10,
         "date": "2026-06-20",
         "time": "13:00pm",
-        "home": "2nd",
-        "away": "7th",
+        "home": "Norwood D4M",
+        "away": "South D4M",
         "venue": "Mt Lofty Community Centre / Show Court 2"
       },
       {
         "round": 10,
         "date": "2026-06-20",
         "time": "15:00pm",
-        "home": "4th",
-        "away": "10th",
+        "home": "Central D4M",
+        "away": "Henley D4M",
         "venue": "Mt Lofty Community Centre / Show Court 1"
       },
       {
         "round": 10,
         "date": "2026-06-20",
         "time": "15:00pm",
-        "home": "3rd",
-        "away": "8th",
+        "home": "Mid Coast D4M",
+        "away": "Flinders Uni D4M",
         "venue": "Mt Lofty Community Centre / Show Court 2"
       },
       {
         "round": 10,
         "date": "2026-06-20",
         "time": "17:30pm",
-        "home": "5th",
-        "away": "9th",
+        "home": "Austral D4M",
+        "away": "USC D4M",
         "venue": "Concordia / Show Court 1"
       },
       {
         "round": 11,
         "date": "2026-06-27",
         "time": "13:00pm",
-        "home": "3rd",
-        "away": "9th",
+        "home": "Mid Coast D4M",
+        "away": "USC D4M",
         "venue": "Mt Lofty Community Centre / Gym 2 (Heathfield HS Gym)"
       },
       {
         "round": 11,
         "date": "2026-06-27",
         "time": "13:00pm",
-        "home": "1st",
-        "away": "10th",
+        "home": "Adelaide Uni D4M",
+        "away": "Henley D4M",
         "venue": "Reynella East College / Show Court 1"
       },
       {
         "round": 11,
         "date": "2026-06-27",
         "time": "15:00pm",
-        "home": "4th",
-        "away": "8th",
+        "home": "Central D4M",
+        "away": "Flinders Uni D4M",
         "venue": "Mt Lofty Community Centre / Gym 2 (Heathfield HS Gym)"
       },
       {
         "round": 11,
         "date": "2026-06-27",
         "time": "15:00pm",
-        "home": "2nd",
-        "away": "6th",
+        "home": "Norwood D4M",
+        "away": "Playford D4M",
         "venue": "Reynella East College / Show Court 1"
       },
       {
         "round": 11,
         "date": "2026-06-27",
         "time": "17:30pm",
-        "home": "5th",
-        "away": "7th",
+        "home": "Austral D4M",
+        "away": "South D4M",
         "venue": "Concordia / Show Court 1"
       },
       {
         "round": 12,
         "date": "2026-07-04",
         "time": "09:00am",
-        "home": "3rd",
-        "away": "4th",
+        "home": "Mid Coast D4M",
+        "away": "Central D4M",
         "venue": "Brighton Gym / Show Court 1"
       },
       {
         "round": 12,
         "date": "2026-07-04",
         "time": "09:00am",
-        "home": "5th",
-        "away": "6th",
+        "home": "Austral D4M",
+        "away": "Playford D4M",
         "venue": "Brighton Gym / Show Court 2"
       },
       {
         "round": 12,
         "date": "2026-07-04",
         "time": "11:00am",
-        "home": "1st",
-        "away": "2nd",
+        "home": "Adelaide Uni D4M",
+        "away": "Norwood D4M",
         "venue": "Brighton Gym / Show Court 1"
       },
       {
         "round": 12,
         "date": "2026-07-04",
         "time": "11:00am",
-        "home": "7th",
-        "away": "9th",
+        "home": "South D4M",
+        "away": "USC D4M",
         "venue": "Brighton Gym / Show Court 2"
       },
       {
         "round": 12,
         "date": "2026-07-04",
         "time": "13:00pm",
-        "home": "8th",
-        "away": "10th",
+        "home": "Flinders Uni D4M",
+        "away": "Henley D4M",
         "venue": "Mt Lofty Community Centre / Gym 2 (Heathfield HS Gym)"
       },
       {
         "round": 13,
         "date": "2026-07-18",
         "time": "13:00pm",
-        "home": "1st",
-        "away": "8th",
+        "home": "Adelaide Uni D4M",
+        "away": "Flinders Uni D4M",
         "venue": "Reynella East College / Show Court 3"
       },
       {
         "round": 13,
         "date": "2026-07-18",
         "time": "13:00pm",
-        "home": "6th",
-        "away": "10th",
+        "home": "Central D4M",
+        "away": "South D4M",
         "venue": "Reynella East College / Show Court 4"
       },
       {
         "round": 13,
         "date": "2026-07-18",
         "time": "15:00pm",
-        "home": "3rd",
-        "away": "5th",
+        "home": "Mid Coast D4M",
+        "away": "Austral D4M",
         "venue": "Reynella East College / Show Court 3"
       },
       {
         "round": 13,
         "date": "2026-07-18",
         "time": "15:00pm",
-        "home": "2nd",
-        "away": "9th",
-        "venue": "Reynella East College / Show Court 4"
+        "home": "Playford D4M",
+        "away": "Henley D4M",
+        "venue": "STARplex / Show Court 1"
       },
       {
         "round": 13,
         "date": "2026-07-18",
         "time": "15:00pm",
-        "home": "4th",
-        "away": "7th",
-        "venue": "STARplex / Show Court 1Playford D4M Match"
+        "home": "Norwood D4M",
+        "away": "USC D4M",
+        "venue": "Reynella East College / Show Court 4"
       },
       {
         "round": 14,
         "date": "2026-07-25",
         "time": "13:00pm",
-        "home": "1st",
-        "away": "5th",
+        "home": "Adelaide Uni D4M",
+        "away": "Austral D4M",
         "venue": "Brighton Gym / Show Court 1"
       },
       {
         "round": 14,
         "date": "2026-07-25",
         "time": "13:00pm",
-        "home": "3rd",
-        "away": "10th",
+        "home": "Mid Coast D4M",
+        "away": "Henley D4M",
         "venue": "Brighton Gym / Show Court 2"
       },
       {
         "round": 14,
         "date": "2026-07-25",
         "time": "15:00pm",
-        "home": "2nd",
-        "away": "4th",
+        "home": "Norwood D4M",
+        "away": "Central D4M",
         "venue": "Brighton Gym / Show Court 1"
       },
       {
         "round": 14,
         "date": "2026-07-25",
         "time": "15:00pm",
-        "home": "6th",
-        "away": "7th",
+        "home": "Playford D4M",
+        "away": "South D4M",
         "venue": "Brighton Gym / Show Court 2"
       },
       {
         "round": 14,
         "date": "2026-07-25",
         "time": "17:00pm",
-        "home": "8th",
-        "away": "9th",
+        "home": "Flinders Uni D4M",
+        "away": "USC D4M",
         "venue": "Mt Lofty Community Centre / Gym 2 (Heathfield HS Gym)"
       }
     ],
