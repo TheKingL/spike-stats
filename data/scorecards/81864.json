@@ -1,0 +1,28 @@
+{
+  "id": 81864,
+  "round": 10,
+  "date": "2026-06-20",
+  "home": "Austral D2M",
+  "away": "South D2M",
+  "homeSets": 3,
+  "awaySets": 0,
+  "homePoints": 76,
+  "awayPoints": 67,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 21
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 22
+    },
+    {
+      "set": 3,
+      "home": 26,
+      "away": 24
+    }
+  ]
+}
