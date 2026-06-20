@@ -1,0 +1,33 @@
+{
+  "id": 81808,
+  "round": 10,
+  "date": "2026-06-20",
+  "home": "Mt Lofty D1M",
+  "away": "Central D1M",
+  "homeSets": 1,
+  "awaySets": 3,
+  "homePoints": 88,
+  "awayPoints": 90,
+  "sets": [
+    {
+      "set": 1,
+      "home": 22,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 15
+    },
+    {
+      "set": 3,
+      "home": 21,
+      "away": 25
+    },
+    {
+      "set": 4,
+      "home": 20,
+      "away": 25
+    }
+  ]
+}
