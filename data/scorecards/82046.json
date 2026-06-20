@@ -1,0 +1,38 @@
+{
+  "id": 82046,
+  "round": 10,
+  "date": "2026-06-20",
+  "home": "Austral D5M",
+  "away": "South D5M",
+  "homeSets": 2,
+  "awaySets": 3,
+  "homePoints": 95,
+  "awayPoints": 106,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 23
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 18
+    },
+    {
+      "set": 3,
+      "home": 17,
+      "away": 25
+    },
+    {
+      "set": 4,
+      "home": 18,
+      "away": 25
+    },
+    {
+      "set": 5,
+      "home": 10,
+      "away": 15
+    }
+  ]
+}
