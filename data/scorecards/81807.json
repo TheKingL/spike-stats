@@ -1,0 +1,33 @@
+{
+  "id": 81807,
+  "round": 10,
+  "date": "2026-06-20",
+  "home": "Adelaide Uni D1M",
+  "away": "Henley D1M",
+  "homeSets": 3,
+  "awaySets": 1,
+  "homePoints": 96,
+  "awayPoints": 88,
+  "sets": [
+    {
+      "set": 1,
+      "home": 21,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 19
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 23
+    },
+    {
+      "set": 4,
+      "home": 25,
+      "away": 21
+    }
+  ]
+}
