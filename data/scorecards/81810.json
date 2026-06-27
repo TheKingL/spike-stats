@@ -1,0 +1,38 @@
+{
+  "id": 81810,
+  "round": 11,
+  "date": "2026-06-27",
+  "home": "South D1M",
+  "away": "USC D1M",
+  "homeSets": 3,
+  "awaySets": 2,
+  "homePoints": 111,
+  "awayPoints": 99,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 14
+    },
+    {
+      "set": 2,
+      "home": 23,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 22
+    },
+    {
+      "set": 4,
+      "home": 23,
+      "away": 25
+    },
+    {
+      "set": 5,
+      "home": 15,
+      "away": 13
+    }
+  ]
+}
