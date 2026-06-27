@@ -1,0 +1,38 @@
+{
+  "id": 81811,
+  "round": 11,
+  "date": "2026-06-27",
+  "home": "Henley D1M",
+  "away": "Austral D1M",
+  "homeSets": 2,
+  "awaySets": 3,
+  "homePoints": 98,
+  "awayPoints": 103,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 18
+    },
+    {
+      "set": 2,
+      "home": 21,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 20
+    },
+    {
+      "set": 4,
+      "home": 16,
+      "away": 25
+    },
+    {
+      "set": 5,
+      "home": 11,
+      "away": 15
+    }
+  ]
+}
