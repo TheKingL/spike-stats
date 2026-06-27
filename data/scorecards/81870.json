@@ -1,0 +1,38 @@
+{
+  "id": 81870,
+  "round": 11,
+  "date": "2026-06-27",
+  "home": "Norwood D2M",
+  "away": "Mt Lofty D2M",
+  "homeSets": 3,
+  "awaySets": 2,
+  "homePoints": 102,
+  "awayPoints": 98,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 12
+    },
+    {
+      "set": 2,
+      "home": 14,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 23
+    },
+    {
+      "set": 4,
+      "home": 23,
+      "away": 25
+    },
+    {
+      "set": 5,
+      "home": 15,
+      "away": 13
+    }
+  ]
+}
