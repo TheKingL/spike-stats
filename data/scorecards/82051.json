@@ -1,0 +1,33 @@
+{
+  "id": 82051,
+  "round": 11,
+  "date": "2026-06-27",
+  "home": "Playford D5M",
+  "away": "Flinders Uni D5M",
+  "homeSets": 3,
+  "awaySets": 1,
+  "homePoints": 98,
+  "awayPoints": 72,
+  "sets": [
+    {
+      "set": 1,
+      "home": 23,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 18
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 12
+    },
+    {
+      "set": 4,
+      "home": 25,
+      "away": 17
+    }
+  ]
+}
