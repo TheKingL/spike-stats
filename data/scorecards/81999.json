@@ -1,0 +1,33 @@
+{
+  "id": 81999,
+  "round": 12,
+  "date": "2026-07-04",
+  "home": "Mid Coast D4M",
+  "away": "Central D4M",
+  "homeSets": 3,
+  "awaySets": 1,
+  "homePoints": 101,
+  "awayPoints": 96,
+  "sets": [
+    {
+      "set": 1,
+      "home": 29,
+      "away": 27
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 23
+    },
+    {
+      "set": 3,
+      "home": 22,
+      "away": 25
+    },
+    {
+      "set": 4,
+      "home": 25,
+      "away": 21
+    }
+  ]
+}
