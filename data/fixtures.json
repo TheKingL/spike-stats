@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T13:17:23.871Z",
+  "updated": "2026-07-04T12:39:36.311Z",
   "divisions": {
     "D1M": [
       {
@@ -449,6 +449,30 @@
         "home": "Adelaide Uni D1M",
         "away": "USC D1M",
         "venue": "Mt Lofty Community Centre / Show Court 2"
+      },
+      {
+        "round": 14,
+        "date": "2026-08-01",
+        "time": "09:00am",
+        "home": "(Table Rank 2)",
+        "away": "(Table Rank 3)",
+        "venue": "Reynella East College / Show Court 2"
+      },
+      {
+        "round": 14,
+        "date": "2026-08-01",
+        "time": "11:00am",
+        "home": "(Table Rank 1)",
+        "away": "(Table Rank 4)",
+        "venue": "Reynella East College / Show Court 2"
+      },
+      {
+        "round": 14,
+        "date": "2026-08-08",
+        "time": "09:00am",
+        "home": "(Winner of Prelim Final Match 2)",
+        "away": "(Winner of Prelim Final Match 1)",
+        "venue": "Reynella East College / Show Court 2"
       }
     ],
     "D2M": [
@@ -899,6 +923,30 @@
         "home": "Central D2M",
         "away": "Austral D2M",
         "venue": "Brighton Gym / Show Court 2"
+      },
+      {
+        "round": 14,
+        "date": "2026-08-01",
+        "time": "13:00pm",
+        "home": "(Table Rank 2)",
+        "away": "(Table Rank 3)",
+        "venue": "Reynella East College / Show Court 3"
+      },
+      {
+        "round": 14,
+        "date": "2026-08-01",
+        "time": "15:00pm",
+        "home": "(Table Rank 1)",
+        "away": "(Table Rank 4)",
+        "venue": "Reynella East College / Show Court 3"
+      },
+      {
+        "round": 14,
+        "date": "2026-08-08",
+        "time": "11:30am",
+        "home": "(Winner of Prelim Final Match 2)",
+        "away": "(Winner of Prelim Final Match 1)",
+        "venue": "Reynella East College / Show Court 2"
       }
     ],
     "D3M": [
@@ -1349,6 +1397,30 @@
         "home": "Central D3M",
         "away": "Austral D3M",
         "venue": "Reynella East College / Show Court 2"
+      },
+      {
+        "round": 14,
+        "date": "2026-08-01",
+        "time": "09:00am",
+        "home": "(Table Rank 2)",
+        "away": "(Table Rank 3)",
+        "venue": "Reynella East College / Show Court 3"
+      },
+      {
+        "round": 14,
+        "date": "2026-08-01",
+        "time": "11:00am",
+        "home": "(Table Rank 1)",
+        "away": "(Table Rank 4)",
+        "venue": "Reynella East College / Show Court 3"
+      },
+      {
+        "round": 14,
+        "date": "2026-08-08",
+        "time": "09:00am",
+        "home": "(Winner of Prelim Final Match 2)",
+        "away": "(Winner of Prelim Final Match 1)",
+        "venue": "Reynella East College / Show Court 4"
       }
     ],
     "D4M": [
@@ -1911,6 +1983,30 @@
         "home": "Flinders Uni D4M",
         "away": "USC D4M",
         "venue": "Mt Lofty Community Centre / Gym 2 (Heathfield HS Gym)"
+      },
+      {
+        "round": 14,
+        "date": "2026-08-01",
+        "time": "13:00pm",
+        "home": "(Table Rank 2)",
+        "away": "(Table Rank 3)",
+        "venue": "Mt Lofty Community Centre / Show Court 1"
+      },
+      {
+        "round": 14,
+        "date": "2026-08-01",
+        "time": "15:00pm",
+        "home": "(Table Rank 1)",
+        "away": "(Table Rank 4)",
+        "venue": "Mt Lofty Community Centre / Show Court 1"
+      },
+      {
+        "round": 14,
+        "date": "2026-08-08",
+        "time": "11:30am",
+        "home": "(Winner of Prelim Final Match 2)",
+        "away": "(Winner of Prelim Final Match 1)",
+        "venue": "Reynella East College / Show Court 4"
       }
     ],
     "D5M": [
@@ -2361,6 +2457,30 @@
         "home": "Henley D5M",
         "away": "Mid Coast D5M",
         "venue": "Mt Lofty Community Centre / Gym 2 (Heathfield HS Gym)"
+      },
+      {
+        "round": 14,
+        "date": "2026-08-01",
+        "time": "09:00am",
+        "home": "(Table Rank 2)",
+        "away": "(Table Rank 3)",
+        "venue": "Mt Lofty Community Centre / Show Court 1"
+      },
+      {
+        "round": 14,
+        "date": "2026-08-01",
+        "time": "11:00am",
+        "home": "(Table Rank 1)",
+        "away": "(Table Rank 4)",
+        "venue": "Mt Lofty Community Centre / Show Court 1"
+      },
+      {
+        "round": 14,
+        "date": "2026-08-08",
+        "time": "09:00am",
+        "home": "(Winner of Prelim Final Match 2)",
+        "away": "(Winner of Prelim Final Match 1)",
+        "venue": "Reynella East College / Show Court 1"
       }
     ]
   }
