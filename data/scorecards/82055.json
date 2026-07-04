@@ -1,0 +1,28 @@
+{
+  "id": 82055,
+  "round": 12,
+  "date": "2026-07-04",
+  "home": "Mid Coast D5M",
+  "away": "South D5M",
+  "homeSets": 3,
+  "awaySets": 0,
+  "homePoints": 75,
+  "awayPoints": 42,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 21
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 5
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 16
+    }
+  ]
+}
