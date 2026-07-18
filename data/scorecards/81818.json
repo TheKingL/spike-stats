@@ -1,0 +1,28 @@
+{
+  "id": 81818,
+  "round": 13,
+  "date": "2026-07-18",
+  "home": "Central D1M",
+  "away": "South D1M",
+  "homeSets": 3,
+  "awaySets": 0,
+  "homePoints": 75,
+  "awayPoints": 67,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 23
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 23
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 21
+    }
+  ]
+}
