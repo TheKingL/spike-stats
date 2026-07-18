@@ -1,0 +1,33 @@
+{
+  "id": 81877,
+  "round": 13,
+  "date": "2026-07-18",
+  "home": "Central D2M",
+  "away": "South D2M",
+  "homeSets": 3,
+  "awaySets": 1,
+  "homePoints": 96,
+  "awayPoints": 83,
+  "sets": [
+    {
+      "set": 1,
+      "home": 20,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 22
+    },
+    {
+      "set": 3,
+      "home": 26,
+      "away": 24
+    },
+    {
+      "set": 4,
+      "home": 25,
+      "away": 12
+    }
+  ]
+}
