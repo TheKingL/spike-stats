@@ -1,0 +1,28 @@
+{
+  "id": 81876,
+  "round": 13,
+  "date": "2026-07-18",
+  "home": "Norwood D2M",
+  "away": "Henley D2M",
+  "homeSets": 3,
+  "awaySets": 0,
+  "homePoints": 75,
+  "awayPoints": 62,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 20
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 23
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 19
+    }
+  ]
+}
