@@ -1,0 +1,38 @@
+{
+  "id": 82057,
+  "round": 13,
+  "date": "2026-07-18",
+  "home": "Playford D5M",
+  "away": "South D5M",
+  "homeSets": 2,
+  "awaySets": 3,
+  "homePoints": 85,
+  "awayPoints": 106,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 19
+    },
+    {
+      "set": 2,
+      "home": 23,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 22
+    },
+    {
+      "set": 4,
+      "home": 5,
+      "away": 25
+    },
+    {
+      "set": 5,
+      "home": 7,
+      "away": 15
+    }
+  ]
+}
