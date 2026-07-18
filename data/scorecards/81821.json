@@ -1,0 +1,28 @@
+{
+  "id": 81821,
+  "round": 13,
+  "date": "2026-07-18",
+  "home": "USC D1M",
+  "away": "Austral D1M",
+  "homeSets": 0,
+  "awaySets": 3,
+  "homePoints": 62,
+  "awayPoints": 83,
+  "sets": [
+    {
+      "set": 1,
+      "home": 15,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 16,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 31,
+      "away": 33
+    }
+  ]
+}
