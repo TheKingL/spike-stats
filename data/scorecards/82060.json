@@ -1,0 +1,28 @@
+{
+  "id": 82060,
+  "round": 13,
+  "date": "2026-07-18",
+  "home": "Mid Coast D5M",
+  "away": "Flinders Uni D5M",
+  "homeSets": 3,
+  "awaySets": 0,
+  "homePoints": 75,
+  "awayPoints": 54,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 17
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 20
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 17
+    }
+  ]
+}
