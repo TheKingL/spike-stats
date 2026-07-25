@@ -1,0 +1,38 @@
+{
+  "id": 81939,
+  "round": 14,
+  "date": "2026-07-25",
+  "home": "Central D3M",
+  "away": "Austral D3M",
+  "homeSets": 2,
+  "awaySets": 3,
+  "homePoints": 111,
+  "awayPoints": 106,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 16
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 22
+    },
+    {
+      "set": 3,
+      "home": 22,
+      "away": 25
+    },
+    {
+      "set": 4,
+      "home": 26,
+      "away": 28
+    },
+    {
+      "set": 5,
+      "home": 13,
+      "away": 15
+    }
+  ]
+}
