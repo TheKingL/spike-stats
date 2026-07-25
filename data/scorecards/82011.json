@@ -1,0 +1,38 @@
+{
+  "id": 82011,
+  "round": 14,
+  "date": "2026-07-25",
+  "home": "Playford D4M",
+  "away": "South D4M",
+  "homeSets": 2,
+  "awaySets": 3,
+  "homePoints": 105,
+  "awayPoints": 103,
+  "sets": [
+    {
+      "set": 1,
+      "home": 22,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 20
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 18
+    },
+    {
+      "set": 4,
+      "home": 22,
+      "away": 25
+    },
+    {
+      "set": 5,
+      "home": 11,
+      "away": 15
+    }
+  ]
+}
