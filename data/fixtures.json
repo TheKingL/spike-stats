@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T12:34:58.114Z",
+  "updated": "2026-08-01T12:48:15.033Z",
   "divisions": {
     "D1M": [
       {
@@ -454,17 +454,17 @@
         "round": 14,
         "date": "2026-08-01",
         "time": "09:00am",
-        "home": "(Table Rank 2)",
-        "away": "(Table Rank 3)",
-        "venue": "Reynella East College / Show Court 2"
+        "home": "Austral D1M",
+        "away": "Central D1M",
+        "venue": "Mt Lofty Community Centre / Show Court 2"
       },
       {
         "round": 14,
         "date": "2026-08-01",
         "time": "11:00am",
-        "home": "(Table Rank 1)",
-        "away": "(Table Rank 4)",
-        "venue": "Reynella East College / Show Court 2"
+        "home": "Norwood D1M",
+        "away": "Adelaide Uni D1M",
+        "venue": "Mt Lofty Community Centre / Show Court 2"
       },
       {
         "round": 14,
@@ -927,18 +927,18 @@
       {
         "round": 14,
         "date": "2026-08-01",
-        "time": "13:00pm",
-        "home": "(Table Rank 2)",
-        "away": "(Table Rank 3)",
-        "venue": "Reynella East College / Show Court 3"
+        "time": "14:00pm",
+        "home": "Adelaide Uni D2M",
+        "away": "Central D2M",
+        "venue": "Brighton Gym / Show Court 1"
       },
       {
         "round": 14,
         "date": "2026-08-01",
-        "time": "15:00pm",
-        "home": "(Table Rank 1)",
-        "away": "(Table Rank 4)",
-        "venue": "Reynella East College / Show Court 3"
+        "time": "16:00pm",
+        "home": "Norwood D2M",
+        "away": "Austral D2M",
+        "venue": "Brighton Gym / Show Court 1"
       },
       {
         "round": 14,
@@ -1401,18 +1401,18 @@
       {
         "round": 14,
         "date": "2026-08-01",
-        "time": "09:00am",
-        "home": "(Table Rank 2)",
-        "away": "(Table Rank 3)",
-        "venue": "Reynella East College / Show Court 3"
+        "time": "10:00am",
+        "home": "Norwood D3M",
+        "away": "South D3M",
+        "venue": "Brighton Gym / Show Court 1"
       },
       {
         "round": 14,
         "date": "2026-08-01",
-        "time": "11:00am",
-        "home": "(Table Rank 1)",
-        "away": "(Table Rank 4)",
-        "venue": "Reynella East College / Show Court 3"
+        "time": "12:00pm",
+        "home": "Adelaide Uni D3M",
+        "away": "Central D3M",
+        "venue": "Brighton Gym / Show Court 1"
       },
       {
         "round": 14,
@@ -1988,17 +1988,17 @@
         "round": 14,
         "date": "2026-08-01",
         "time": "13:00pm",
-        "home": "(Table Rank 2)",
-        "away": "(Table Rank 3)",
-        "venue": "Mt Lofty Community Centre / Show Court 1"
+        "home": "Mid Coast D4M",
+        "away": "Norwood D4M",
+        "venue": "Mt Lofty Community Centre / Gym 2 (Heathfield HS Gym)"
       },
       {
         "round": 14,
         "date": "2026-08-01",
         "time": "15:00pm",
-        "home": "(Table Rank 1)",
-        "away": "(Table Rank 4)",
-        "venue": "Mt Lofty Community Centre / Show Court 1"
+        "home": "Adelaide Uni D4M",
+        "away": "Central D4M",
+        "venue": "Mt Lofty Community Centre / Gym 2 (Heathfield HS Gym)"
       },
       {
         "round": 14,
@@ -2462,17 +2462,17 @@
         "round": 14,
         "date": "2026-08-01",
         "time": "09:00am",
-        "home": "(Table Rank 2)",
-        "away": "(Table Rank 3)",
-        "venue": "Mt Lofty Community Centre / Show Court 1"
+        "home": "Mid Coast D5M",
+        "away": "Adelaide Uni B",
+        "venue": "Mt Lofty Community Centre / Gym 2 (Heathfield HS Gym)"
       },
       {
         "round": 14,
         "date": "2026-08-01",
         "time": "11:00am",
-        "home": "(Table Rank 1)",
-        "away": "(Table Rank 4)",
-        "venue": "Mt Lofty Community Centre / Show Court 1"
+        "home": "Adelaide Uni A",
+        "away": "Austral D5M",
+        "venue": "Mt Lofty Community Centre / Gym 2 (Heathfield HS Gym)"
       },
       {
         "round": 14,
