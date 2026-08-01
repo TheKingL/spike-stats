@@ -1,0 +1,28 @@
+{
+  "id": 84760,
+  "round": null,
+  "date": "2026-08-01",
+  "home": "Adelaide Uni D3M",
+  "away": "Central D3M",
+  "homeSets": 3,
+  "awaySets": 0,
+  "homePoints": 75,
+  "awayPoints": 58,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 15
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 22
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 21
+    }
+  ]
+}
