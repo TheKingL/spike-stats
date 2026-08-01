@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T12:34:58.114Z",
+  "updated": "2026-08-01T12:48:15.033Z",
   "divisions": {
     "D1M": [
       {
@@ -14,8 +14,8 @@
         "setsAgainst": 13,
         "setPercent": 0.7547,
         "pointsFor": 1222,
-        "pointsAgainst": 1068,
-        "pointPercent": 0.5336,
+        "pointsAgainst": 1065,
+        "pointPercent": 0.5343,
         "leaguePoints": 38
       },
       {
@@ -125,9 +125,9 @@
         "setsFor": 20,
         "setsAgainst": 38,
         "setPercent": 0.3448,
-        "pointsFor": 1169,
+        "pointsFor": 1166,
         "pointsAgainst": 1325,
-        "pointPercent": 0.4687,
+        "pointPercent": 0.4681,
         "leaguePoints": 18
       }
     ],
@@ -175,9 +175,9 @@
         "setsFor": 33,
         "setsAgainst": 23,
         "setPercent": 0.5893,
-        "pointsFor": 1257,
-        "pointsAgainst": 1189,
-        "pointPercent": 0.5139,
+        "pointsFor": 1255,
+        "pointsAgainst": 1191,
+        "pointPercent": 0.5131,
         "leaguePoints": 32
       },
       {
@@ -191,9 +191,9 @@
         "setsFor": 27,
         "setsAgainst": 27,
         "setPercent": 0.5,
-        "pointsFor": 1221,
-        "pointsAgainst": 1205,
-        "pointPercent": 0.5033,
+        "pointsFor": 1223,
+        "pointsAgainst": 1203,
+        "pointPercent": 0.5041,
         "leaguePoints": 28
       },
       {
@@ -265,18 +265,18 @@
       {
         "rank": 1,
         "team": "Adelaide Uni D3M",
-        "played": 13,
-        "won": 12,
+        "played": 14,
+        "won": 13,
         "lost": 1,
         "drawn": 0,
         "other": 0,
-        "setsFor": 37,
+        "setsFor": 40,
         "setsAgainst": 12,
-        "setPercent": 0.7551,
-        "pointsFor": 1182,
-        "pointsAgainst": 977,
-        "pointPercent": 0.5475,
-        "leaguePoints": 37
+        "setPercent": 0.7692,
+        "pointsFor": 1257,
+        "pointsAgainst": 1037,
+        "pointPercent": 0.548,
+        "leaguePoints": 40
       },
       {
         "rank": 2,
@@ -353,26 +353,26 @@
         "setsFor": 17,
         "setsAgainst": 33,
         "setPercent": 0.34,
-        "pointsFor": 1077,
+        "pointsFor": 1073,
         "pointsAgainst": 1155,
-        "pointPercent": 0.4825,
+        "pointPercent": 0.4816,
         "leaguePoints": 22
       },
       {
         "rank": 7,
         "team": "USC D3M",
-        "played": 13,
+        "played": 14,
         "won": 3,
-        "lost": 10,
+        "lost": 11,
         "drawn": 0,
         "other": 0,
         "setsFor": 15,
-        "setsAgainst": 34,
-        "setPercent": 0.3061,
-        "pointsFor": 983,
-        "pointsAgainst": 1153,
-        "pointPercent": 0.4602,
-        "leaguePoints": 19
+        "setsAgainst": 37,
+        "setPercent": 0.2885,
+        "pointsFor": 1043,
+        "pointsAgainst": 1228,
+        "pointPercent": 0.4593,
+        "leaguePoints": 20
       },
       {
         "rank": 8,
@@ -386,8 +386,8 @@
         "setsAgainst": 42,
         "setPercent": 0.125,
         "pointsFor": 931,
-        "pointsAgainst": 1183,
-        "pointPercent": 0.4404,
+        "pointsAgainst": 1179,
+        "pointPercent": 0.4412,
         "leaguePoints": 14
       }
     ],
@@ -507,34 +507,34 @@
       {
         "rank": 8,
         "team": "Flinders Uni D4M",
-        "played": 13,
-        "won": 3,
+        "played": 14,
+        "won": 4,
         "lost": 10,
         "drawn": 0,
         "other": 0,
-        "setsFor": 13,
+        "setsFor": 16,
         "setsAgainst": 35,
-        "setPercent": 0.2708,
-        "pointsFor": 978,
-        "pointsAgainst": 1096,
-        "pointPercent": 0.4716,
-        "leaguePoints": 19
+        "setPercent": 0.3137,
+        "pointsFor": 1053,
+        "pointsAgainst": 1163,
+        "pointPercent": 0.4752,
+        "leaguePoints": 22
       },
       {
         "rank": 9,
         "team": "USC D4M",
-        "played": 13,
+        "played": 14,
         "won": 1,
-        "lost": 12,
+        "lost": 13,
         "drawn": 0,
         "other": 0,
         "setsFor": 12,
-        "setsAgainst": 38,
-        "setPercent": 0.24,
-        "pointsFor": 995,
-        "pointsAgainst": 1170,
-        "pointPercent": 0.4596,
-        "leaguePoints": 15
+        "setsAgainst": 41,
+        "setPercent": 0.2264,
+        "pointsFor": 1062,
+        "pointsAgainst": 1245,
+        "pointPercent": 0.4603,
+        "leaguePoints": 16
       },
       {
         "rank": 10,
@@ -573,18 +573,18 @@
       {
         "rank": 2,
         "team": "Mid Coast D5M",
-        "played": 13,
-        "won": 10,
+        "played": 14,
+        "won": 11,
         "lost": 2,
         "drawn": 0,
         "other": 1,
-        "setsFor": 34,
+        "setsFor": 37,
         "setsAgainst": 11,
-        "setPercent": 0.7556,
-        "pointsFor": 1078,
-        "pointsAgainst": 888,
-        "pointPercent": 0.5483,
-        "leaguePoints": 35
+        "setPercent": 0.7708,
+        "pointsFor": 1153,
+        "pointsAgainst": 937,
+        "pointPercent": 0.5517,
+        "leaguePoints": 38
       },
       {
         "rank": 3,
@@ -637,18 +637,18 @@
       {
         "rank": 6,
         "team": "Henley D5M",
-        "played": 13,
+        "played": 14,
         "won": 4,
-        "lost": 6,
+        "lost": 7,
         "drawn": 0,
         "other": 3,
         "setsFor": 13,
-        "setsAgainst": 27,
-        "setPercent": 0.325,
-        "pointsFor": 663,
-        "pointsAgainst": 936,
-        "pointPercent": 0.4146,
-        "leaguePoints": 18
+        "setsAgainst": 30,
+        "setPercent": 0.3023,
+        "pointsFor": 712,
+        "pointsAgainst": 1011,
+        "pointPercent": 0.4132,
+        "leaguePoints": 19
       },
       {
         "rank": 7,
