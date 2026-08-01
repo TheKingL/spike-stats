@@ -1,0 +1,28 @@
+{
+  "id": 82064,
+  "round": 14,
+  "date": "2026-07-25",
+  "home": "Henley D5M",
+  "away": "Mid Coast D5M",
+  "homeSets": 0,
+  "awaySets": 3,
+  "homePoints": 49,
+  "awayPoints": 75,
+  "sets": [
+    {
+      "set": 1,
+      "home": 15,
+      "away": 25
+    },
+    {
+      "set": 2,
+      "home": 15,
+      "away": 25
+    },
+    {
+      "set": 3,
+      "home": 19,
+      "away": 25
+    }
+  ]
+}
