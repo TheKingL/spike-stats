@@ -1,0 +1,28 @@
+{
+  "id": 82012,
+  "round": 14,
+  "date": "2026-07-25",
+  "home": "Flinders Uni D4M",
+  "away": "USC D4M",
+  "homeSets": 3,
+  "awaySets": 0,
+  "homePoints": 75,
+  "awayPoints": 67,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 22
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 22
+    },
+    {
+      "set": 3,
+      "home": 25,
+      "away": 23
+    }
+  ]
+}
