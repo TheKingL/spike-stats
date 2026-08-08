@@ -1,0 +1,38 @@
+{
+  "id": 84758,
+  "round": null,
+  "date": "2026-08-08",
+  "home": "Norwood D2M",
+  "away": "Adelaide Uni D2M",
+  "homeSets": 3,
+  "awaySets": 2,
+  "homePoints": 99,
+  "awayPoints": 108,
+  "sets": [
+    {
+      "set": 1,
+      "home": 25,
+      "away": 20
+    },
+    {
+      "set": 2,
+      "home": 25,
+      "away": 23
+    },
+    {
+      "set": 3,
+      "home": 15,
+      "away": 25
+    },
+    {
+      "set": 4,
+      "home": 17,
+      "away": 25
+    },
+    {
+      "set": 5,
+      "home": 17,
+      "away": 15
+    }
+  ]
+}
