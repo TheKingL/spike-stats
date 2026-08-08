@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T12:48:15.033Z",
+  "updated": "2026-08-08T13:24:55.192Z",
   "divisions": {
     "D1M": [
       {
@@ -639,6 +639,17 @@
         "awaySets": 3,
         "homePoints": 92,
         "awayPoints": 93
+      },
+      {
+        "scorecardId": 84755,
+        "round": 14,
+        "date": "2026-08-08",
+        "home": "Adelaide Uni D1M",
+        "away": "Austral D1M",
+        "homeSets": 3,
+        "awaySets": 1,
+        "homePoints": 95,
+        "awayPoints": 84
       }
     ],
     "D2M": [
@@ -1279,6 +1290,17 @@
         "awaySets": 1,
         "homePoints": 97,
         "awayPoints": 87
+      },
+      {
+        "scorecardId": 84758,
+        "round": 14,
+        "date": "2026-08-08",
+        "home": "Norwood D2M",
+        "away": "Adelaide Uni D2M",
+        "homeSets": 3,
+        "awaySets": 2,
+        "homePoints": 99,
+        "awayPoints": 108
       }
     ],
     "D3M": [
@@ -1919,6 +1941,17 @@
         "awaySets": 0,
         "homePoints": 75,
         "awayPoints": 58
+      },
+      {
+        "scorecardId": 84761,
+        "round": 14,
+        "date": "2026-08-08",
+        "home": "Adelaide Uni D3M",
+        "away": "South D3M",
+        "homeSets": 0,
+        "awaySets": 3,
+        "homePoints": 53,
+        "awayPoints": 75
       }
     ],
     "D4M": [
@@ -2713,6 +2746,17 @@
         "awaySets": 2,
         "homePoints": 99,
         "awayPoints": 101
+      },
+      {
+        "scorecardId": 84764,
+        "round": 14,
+        "date": "2026-08-08",
+        "home": "Adelaide Uni D4M",
+        "away": "Norwood D4M",
+        "homeSets": 0,
+        "awaySets": 3,
+        "homePoints": 54,
+        "awayPoints": 75
       }
     ],
     "D5M": [
@@ -3353,6 +3397,17 @@
         "awaySets": 1,
         "homePoints": 95,
         "awayPoints": 77
+      },
+      {
+        "scorecardId": 84767,
+        "round": 14,
+        "date": "2026-08-08",
+        "home": "Adelaide Uni A",
+        "away": "Adelaide Uni B",
+        "homeSets": 3,
+        "awaySets": 1,
+        "homePoints": 92,
+        "awayPoints": 82
       }
     ]
   }
