@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T12:48:15.033Z",
+  "updated": "2026-08-08T13:24:55.192Z",
   "divisions": {
     "D1M": [
       {
@@ -470,8 +470,8 @@
         "round": 14,
         "date": "2026-08-08",
         "time": "09:00am",
-        "home": "(Winner of Prelim Final Match 2)",
-        "away": "(Winner of Prelim Final Match 1)",
+        "home": "Adelaide Uni D1M",
+        "away": "Austral D1M",
         "venue": "Reynella East College / Show Court 2"
       }
     ],
@@ -944,8 +944,8 @@
         "round": 14,
         "date": "2026-08-08",
         "time": "11:30am",
-        "home": "(Winner of Prelim Final Match 2)",
-        "away": "(Winner of Prelim Final Match 1)",
+        "home": "Norwood D2M",
+        "away": "Adelaide Uni D2M",
         "venue": "Reynella East College / Show Court 2"
       }
     ],
@@ -1418,8 +1418,8 @@
         "round": 14,
         "date": "2026-08-08",
         "time": "09:00am",
-        "home": "(Winner of Prelim Final Match 2)",
-        "away": "(Winner of Prelim Final Match 1)",
+        "home": "Adelaide Uni D3M",
+        "away": "South D3M",
         "venue": "Reynella East College / Show Court 4"
       }
     ],
@@ -2004,8 +2004,8 @@
         "round": 14,
         "date": "2026-08-08",
         "time": "11:30am",
-        "home": "(Winner of Prelim Final Match 2)",
-        "away": "(Winner of Prelim Final Match 1)",
+        "home": "Adelaide Uni D4M",
+        "away": "Norwood D4M",
         "venue": "Reynella East College / Show Court 4"
       }
     ],
@@ -2478,8 +2478,8 @@
         "round": 14,
         "date": "2026-08-08",
         "time": "09:00am",
-        "home": "(Winner of Prelim Final Match 2)",
-        "away": "(Winner of Prelim Final Match 1)",
+        "home": "Adelaide Uni A",
+        "away": "Adelaide Uni B",
         "venue": "Reynella East College / Show Court 1"
       }
     ]
